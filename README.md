@@ -1,5 +1,5 @@
 # 概要
-	非同期処理 と Promise と async/wait の使い方
+	非同期処理 と Promise と async/await の使い方
 	[参考](https://qiita.com/G-awa/items/652107a9abf7ff6d0d06)
 
 # ファイルの説明
