@@ -15,6 +15,9 @@ Promiseを使った、結果の順番が固定されたプログラム
 - index4.js  
 async/awaitを使った、結果の順番が固定されたプログラム
 
+- index5.js  
+Promise.allを使った、結果の順番が固定されたプログラム
+
 # 実行方法
 ```
 node index.js
